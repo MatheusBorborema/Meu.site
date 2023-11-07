@@ -1,0 +1,6 @@
+* #foo {
+    color: green;
+  }
+  *[id="foo"] {
+    background: purple;
+  }
