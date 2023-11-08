@@ -1,12 +1,4 @@
-* #foo {
-    color: green;
-  }
-  *[id="foo"] {
-    background: purple;
-  }
-  body h1 {
-    color: green;
-  }
-  html h1 {
-    color: purple;
-  }
+body {  
+    color: white;
+
+}
